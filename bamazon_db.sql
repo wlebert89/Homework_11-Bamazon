@@ -20,13 +20,13 @@ INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("Rapier", "Weapon", 20, 14);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Potion of Invisibility", "Magic Items", 20000, 1);
+VALUES ("Potion of Invisibility", "Magic Items", 300, 11);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("Mithral Chain Shirt", "Armor", 1100, 6);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Scroll of Cat's Grace", "Magic Items", 150, 12);
+VALUES ("Scroll of Cat's Grace", "Magic Items", 150, 7);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("Crossbow, heavy", "Weapons", 50, 8);
@@ -41,7 +41,7 @@ INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("Scale Mail", "Armor", 50, 9);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Broom of Flying", "Magic Items", 17000, 3);
+VALUES ("Broom of Flying", "Magic Items", 17000, 2);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("Waraxe, Dwarven", "Weapon", 30, 3);

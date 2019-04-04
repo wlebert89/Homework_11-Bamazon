@@ -42,7 +42,7 @@ function selectItem(res) {
                     console.log("Price: " + res[i].price);
                     console.log("Stock Quantity: " + res[i].stock_quantity);
                     console.log("");
-                    
+
                     buy(res[i]);
                 }
             }
@@ -79,7 +79,7 @@ function buy(product) {
                 connection.end();
             });
         } else {
-            console.log("Insufficient quantity.")
+            console.log("Insufficient quantity. Returning to main menu...")
             displayProducts();
         }
     });

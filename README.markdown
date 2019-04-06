@@ -19,3 +19,9 @@ When a user runs bamazonManager.js in node, they are given a list of options:
     * View Low Inventory - allows the user to view items with a stock quantity value less than 5.
     * Add to Inventory - allows the user to select any item in the Bamazon market (this time using a list rather than having to enter the item's ID number) and increase it's stock quantity.
     * Add New Product - allows the user to add an entirely new product to the market by entering all of the product's relevant information into the command line with a series of prompts.
+
+### App Demo Video
+
+A screen recording of the Bamazon app is available in the "app_demo" folder.
+
+* [DemoVideo] (https://github.com/wlebert89/Homework_11-Bamazon/tree/master/app_demo)
